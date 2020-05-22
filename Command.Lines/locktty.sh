@@ -1,7 +1,5 @@
 #!/bin/sh
 # Tuan Nguyen
-# Project 4
-# COMP 322L - Class #16766 (MoWe 12:30PM-01:45PM)
 # * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * *
 # Modify the above locktty script so that the new user has only 3 attempts
 # to reinstate the session, and furthermore, it has to be done within 15 minutes
